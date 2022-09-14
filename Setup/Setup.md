@@ -6,7 +6,7 @@
             HTTP Proxy: 127.0.0.1		Port: 8080
             Check ‘Also use this proxy for HTTPS’
 
-![Firefox](https://github.com/iakil/Codepath_Cybersecurity/blob/main/FirefoxSettings.png?raw=true)
+![Firefox](https://github.com/iakil/CodePath_Cybersecurity/blob/main/Setup/src/FirefoxSettings.png)
 
 ---
 
@@ -22,12 +22,12 @@
         Port: 8080
         Click ‘Save’
 
-![FoxyProxy ADDON](https://github.com/iakil/Codepath_Cybersecurity/blob/main/FoxyProxyAddons.png?raw=true)
+![FoxyProxy ADDON](https://github.com/iakil/CodePath_Cybersecurity/blob/main/Setup/src/FoxyProxyAddons.png)
 
 ---
 
     Open: BURP Suite → Target → Scope → Load
 
-Load [Scope.txt](Setup/src/scope.txt)
+Load [Scope.txt](https://github.com/iakil/CodePath_Cybersecurity/blob/main/Setup/src/scope.txt)
 
 Click Yes for - 'Proxy History logging'
